@@ -1,3 +1,8 @@
 DerivedDataCache/
 Intermediate/
 Saved/
+Source/
+Binaries/
+.vs/
+.idea/
+FSD.sln

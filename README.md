@@ -13,6 +13,8 @@ Most audio modders will want to use the template project on this branch. This do
 ## All-assets branch
 This branch contains every sound asset in the Audio folder in the game, including sound cue graphs and sound waves. Switch to this branch if you want to copy the reconstructed sound cues with the reconstructed node graphs.
 
+**Before you open the project on this branch, you MUST unzip the Content folder first!**
+
 ## Commit Tags
 There are 3 types of commits that will be made to inform when you might want to upgrade to the newest version of the template:
 * **MAJOR**: When you absolutely MUST upgrade to the newest. This will likely be for major game updates.

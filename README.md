@@ -16,6 +16,8 @@ This branch contains every sound asset in the Audio folder in the game, includin
 > [!IMPORTANT]
 > Before you open the project on this branch, you MUST copy the files from Audio.zip into the Audio folder first! For example ReverbLobby.uasset should be inside of Content/Audio etc.
 
+![image](https://github.com/DRG-Modding/Audio-Modding-Template/assets/84156063/6bdbbabd-8d97-478a-a4b8-7d769ca65934)
+
 You can obtain the latest `Audio.zip` from the [releases](https://github.com/DRG-Modding/Audio-Modding-Template/releases) page.
 
 ## Commit Tags

@@ -10,8 +10,15 @@ Thanks to the real MVP, `LongerWarrior` for creating the script bytecode in `UAs
 ## Main branch
 Most audio modders will want to use the template project on this branch. This does not include the sound cues and sound waves, but includes everything else. It means that you just need to make the sound cues yourself like normal.
 
-## All-assets branch
+## All-assets branchAui
 This branch contains every sound asset in the Audio folder in the game, including sound cue graphs and sound waves. Switch to this branch if you want to copy the reconstructed sound cues with the reconstructed node graphs.
+
+> [!IMPORTANT]
+> Before you open the project on this branch, you MUST copy the files from Audio.zip into the Audio folder first! For example ReverbLobby.uasset should be inside of Content/Audio etc.
+
+![image](https://github.com/DRG-Modding/Audio-Modding-Template/assets/84156063/6bdbbabd-8d97-478a-a4b8-7d769ca65934)
+
+You can obtain the latest `Audio.zip` from the [releases](https://github.com/DRG-Modding/Audio-Modding-Template/releases) page.
 
 ## Commit Tags
 There are 3 types of commits that will be made to inform when you might want to upgrade to the newest version of the template:
